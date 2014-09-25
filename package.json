@@ -1,5 +1,6 @@
 { 
 	"dependencies" : {
-		 "google-translate" : "latest"
+		 "google-translate" : "0.1.14",
+		 "strsplit" : "1.0.0"
 	}
 }
