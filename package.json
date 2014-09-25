@@ -1,6 +1,6 @@
 { 
 	"dependencies" : {
-		 "google-translate" : "0.1.14",
-		 "strsplit" : "1.0.0"
+		 "strsplit" : "1.0.0",
+		 "request" : "2.44.0"
 	}
 }
